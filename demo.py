@@ -17,5 +17,4 @@ def sort(nums):
 
 nums = [3, 6, 8, 3, 4, 6, 0]
 sort(nums)
-
 print(nums)
